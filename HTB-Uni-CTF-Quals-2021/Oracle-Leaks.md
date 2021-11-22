@@ -1,8 +1,8 @@
 # Oracle Leaks
 
-**Writeup by: ** arcayn
-**Category: ** Crypto
-**Difficulty: ** Medium
+**Writeup by:** arcayn
+**Category:** Crypto
+**Difficulty:** Medium
 
 We are given a service, along with its python source code. The service gives us three options:
 ```

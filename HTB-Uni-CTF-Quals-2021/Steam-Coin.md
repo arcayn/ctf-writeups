@@ -1,8 +1,8 @@
 # SteamCoin
 
-**Writeup by: ** arcayn
-**Category: ** Web
-**Difficulty: ** Medium
+**Writeup by:** arcayn
+**Category:** Web
+**Difficulty:** Medium
 
 We are given the full downloadable for an entire node.js application, including its build files, as well as an IP and port for a live version of the app. We begin analysing the website and see it has three basic functionalities:
 	- Create user

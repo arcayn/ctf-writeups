@@ -1,8 +1,8 @@
 # Space Pirates
 
-**Writeup by: ** arcayn
-**Category: ** Crypto
-**Difficulty: ** Easy
+**Writeup by:** arcayn
+**Category:** Crypto
+**Difficulty:** Easy
 
 We are given a python script and some output, let's analyse these. The script appears to be creating an instance of the [Shamir Secret Sharing scheme](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing).  Looking at `msg.enc`, we see it is a dumped output from the program's `main()` function.
 ```python

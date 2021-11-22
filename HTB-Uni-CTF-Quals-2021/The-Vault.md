@@ -1,8 +1,8 @@
 # The Vault
 
-**Writeup by: ** arcayn
-**Category: ** Rev
-**Difficulty: ** Medium
+**Writeup by:** arcayn
+**Category:** Rev
+**Difficulty:** Medium
 
 We are given a binary file. Opening it up in Ghidra, we head to the main function. Following a couple of function pointers through, we arrive at:
 ```C

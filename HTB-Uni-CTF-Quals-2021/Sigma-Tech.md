@@ -1,8 +1,8 @@
 # Sigma Technology
 
-**Writeup by: ** arcayn
-**Category: ** Misc
-**Difficulty: ** Medium
+**Writeup by:** arcayn
+**Category:** Misc
+**Difficulty:** Medium
 
 We are given a download and a wesbite to connect to. The challenge description asks us
 > Can you use your laser pointer to change some of the robot's vision pixels forcing it to misclassify your dog's image as a non-animal object?

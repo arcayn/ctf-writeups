@@ -1,8 +1,8 @@
 # Waiting List
 
-**Writeup by: ** arcayn
-**Category: ** Crypto
-**Difficulty: ** Hard
+**Writeup by:** arcayn
+**Category:** Crypto
+**Difficulty:** Hard
 
 We are given a service to connect to and its python source. Investigating the file, we see that it initialises a signature scheme called `ECDSA`, and calls the `verify` method on whatever data we send over the connection.
 ```python
