@@ -1,4 +1,5 @@
 # SteamCoin
+
 **Writeup by: ** arcayn
 **Category: ** Web
 **Difficulty: ** Medium

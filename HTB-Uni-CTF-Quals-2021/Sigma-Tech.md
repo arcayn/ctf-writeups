@@ -1,4 +1,5 @@
 # Sigma Technology
+
 **Writeup by: ** arcayn
 **Category: ** Misc
 **Difficulty: ** Medium

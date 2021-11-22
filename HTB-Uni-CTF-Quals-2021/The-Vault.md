@@ -1,4 +1,5 @@
 # The Vault
+
 **Writeup by: ** arcayn
 **Category: ** Rev
 **Difficulty: ** Medium

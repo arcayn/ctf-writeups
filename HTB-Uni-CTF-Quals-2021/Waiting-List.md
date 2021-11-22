@@ -1,4 +1,5 @@
 # Waiting List
+
 **Writeup by: ** arcayn
 **Category: ** Crypto
 **Difficulty: ** Hard

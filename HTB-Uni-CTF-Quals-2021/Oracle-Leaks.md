@@ -1,4 +1,5 @@
 # Oracle Leaks
+
 **Writeup by: ** arcayn
 **Category: ** Crypto
 **Difficulty: ** Medium
